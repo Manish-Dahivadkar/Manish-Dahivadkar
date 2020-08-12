@@ -29,7 +29,10 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 ◼ NLP (Natural Language Processing)
 
 
-
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/https://www.linkedin.com/in/manish999dahivadkar/"
 <!--
 **Manish-Dahivadkar/Manish-Dahivadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
