@@ -1,4 +1,34 @@
-### Hi there 👋
+# 🙂 Hi there I am Manish 👋
+
+I am a Data Science and Analytics enthusiast and experienced pharma consulting professional. I have learned data science formally in classroom program "Data Science-Prodegree" from Imarticus Learning in collaboration with Genpact. Subject matter expertise in pharma/Lifesciences (proven by master’s degree in pharmacy and work experience) and my programming/AI/DS/ML skillsets makes me different and potential candidate for data science roles with ability to bridge gap between business side and technical side.
+
+### 🔭 Things Learned...
+
+◼ Pyhton 🐍 
+
+
+◼ R 
+
+
+◼ Machine Learning
+
+
+◼ Tableau 
+
+
+
+### 🌱 I’m currently learning ...
+
+◼ SQL
+
+
+
+◼ Deep Learning
+
+
+◼ NLP (Natural Language Processing)
+
+
 
 <!--
 **Manish-Dahivadkar/Manish-Dahivadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
