@@ -4,9 +4,6 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 
 ### 🔭 Things Learned...
 
-![R Logo](https://www.google.com/search?q=r+programming+symbol&rlz=1C1GCEU_enIN890IN890&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPq_nFqpXrAhVOVH0KHTHTDMQQ_AUoAXoECBIQAw&biw=1366&bih=657#imgrc=J_6ZYDcRTbHFPM)
-
-
 ◼ Pyhton Programming 🐍 
 
 
