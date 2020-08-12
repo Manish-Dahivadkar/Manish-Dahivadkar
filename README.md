@@ -4,13 +4,16 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 
 ### 🔭 Things Learned...
 
-◼ Pyhton 🐍 
+![R Logo](https://www.google.com/search?q=r+programming+symbol&rlz=1C1GCEU_enIN890IN890&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPq_nFqpXrAhVOVH0KHTHTDMQQ_AUoAXoECBIQAw&biw=1366&bih=657#imgrc=J_6ZYDcRTbHFPM)
+
+
+◼ Pyhton Programming 🐍 
 
 
 ◼ R 
 
 
-◼ Machine Learning
+◼ Machine Learning 💻
 
 
 ◼ Tableau 
@@ -29,10 +32,9 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 ◼ NLP (Natural Language Processing)
 
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/https://www.linkedin.com/in/manish999dahivadkar/"
+## Get in touch📌
+- Linkedin : [Manish Dahivadkar](https://www.linkedin.com/in/manish999dahivadkar/) 
+
 <!--
 **Manish-Dahivadkar/Manish-Dahivadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
