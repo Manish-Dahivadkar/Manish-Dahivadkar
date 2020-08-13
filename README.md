@@ -30,7 +30,7 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 
 
 ## Get in touch📌
-- Linkedin : [Manish Dahivadkar](https://www.linkedin.com/in/manish999dahivadkar/) src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
+- Linkedin : [Manish Dahivadkar](https://www.linkedin.com/in/manish999dahivadkar/) src="https://drive.google.com/drive/my-drive/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>
 
 <!--
 **Manish-Dahivadkar/Manish-Dahivadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
