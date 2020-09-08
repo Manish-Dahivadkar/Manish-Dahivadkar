@@ -30,7 +30,7 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 
 
 
-![Manish -Data Science Certification|100x100](https://user-images.githubusercontent.com/64687046/92443853-b840cc00-f1cf-11ea-9c49-4e41b00f7e69.JPG =250x250)
+![Manish -Data Science Certification](https://user-images.githubusercontent.com/64687046/92443853-b840cc00-f1cf-11ea-9c49-4e41b00f7e69.JPG =250x250)
 
 
 ## Get in touch📌
