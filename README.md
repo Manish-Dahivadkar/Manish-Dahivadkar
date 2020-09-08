@@ -34,7 +34,7 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 
 
 ## Get in touch📌
-- Linkedin : [Tanvee Srivastava](https://www.linkedin.com/in/tanveesrivastava/) 
+ [Tanvee Srivastava](https://www.linkedin.com/in/tanveesrivastava/) 
 <!--
 **Manish-Dahivadkar/Manish-Dahivadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
