@@ -34,9 +34,9 @@ I am a Data Science and Analytics enthusiast and experienced pharma consulting p
 
 
 ## Get in touch📌
- [
-![<img src="https://user-images.githubusercontent.com/64687046/92454915-aadf0e00-f1de-11ea-9aef-78f4802f1c45.jpg" width="100">
-](https://www.linkedin.com/in/manish999dahivadkar/) 
+
+[<img src="https://user-images.githubusercontent.com/64687046/92454915-aadf0e00-f1de-11ea-9aef-78f4802f1c45.jpg" width="100"/>](https://www.linkedin.com/in/manish999dahivadkar/)
+
 <!--
 **Manish-Dahivadkar/Manish-Dahivadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
